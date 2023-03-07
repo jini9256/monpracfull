@@ -1,11 +1,10 @@
 
-
-# 프로젝트 
 ![](https://velog.velcdn.com/images/jini9256/post/bcee838d-befd-41b1-8c2f-db0c4fda1b00/image.png)
 
 ### 프로젝트명 : Tripick
 
- - 국내를 돌아다니며 여행할수있는 자료를 제공함으로써 국내관광 정보제공 및 반경 20km내 숙박및 식음료 데이터를 제공해주는 사이트
+ -국내를 돌아다니며 여행할 수 있는 자료를 제공함으로써 국내 관광 정보제공 및 반경 20km 내 숙박 및 식음료 데이터를 제공해 주는 사이트
+  
 ![](https://velog.velcdn.com/images/jini9256/post/c3363126-286a-4cdb-b7a4-5a202d4b26ed/image.png)
 
 ---
