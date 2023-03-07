@@ -1,7 +1,7 @@
 
 ![](https://velog.velcdn.com/images/jini9256/post/c3363126-286a-4cdb-b7a4-5a202d4b26ed/image.png)
 
-# 프로젝트명 : Tripick
+# Tripick
 
  - 국내를 돌아다니며 여행할수있는 자료를 제공함으로써 국내관광 정보제공 및 반경 20km내 숙박및 식음료 데이터를 제공해주는 사이트
 
